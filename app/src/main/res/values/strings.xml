@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">InstaViewer</string>
+	<string name="service_name">InstaViewer Service</string>
+	<string name="user_icon">User Icon</string>
+	<string name="username">Username</string>
+	<string name="message">Message</string>
+</resources>
